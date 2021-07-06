@@ -1,2 +1,2 @@
 # nodejs-webserver
-web server usando nodejs 
+web server http usando nodejs 
